@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🏋️ FitQuestPro 🏋️
 
 Welcome to the FitQuestPro, your ultimate fitness routine organizer! This web application streamlines your workouts by integrating with two powerful APIs: the [ExerciseDB API](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb) by Justin Mozley for exercises and the [YouTube Search and Download API](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download) by h0p3rwe for instructional videos.
@@ -25,8 +25,6 @@ We welcome contributions from the community! Whether it's bug fixes, new feature
 🔗 API Credits:
 This project relies on the fantastic [ExerciseDB API](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb) by Justin Mozley and the [YouTube Search and Download API](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download) by h0p3rwe. Check their documentation for more details, and consider supporting their work.
 
-📝 License:
-This project is licensed under the [Your License Here] License - see the [LICENSE](link) file for details.
 
 💡 Feedback:
 We're constantly working to enhance this application. If you have feedback, suggestions, or encounter issues, please create an issue or contact us at [your contact email]!
