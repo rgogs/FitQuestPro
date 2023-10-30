@@ -32,11 +32,6 @@ We're constantly working to enhance this application. If you have feedback, sugg
 Supercharge your fitness journey with the Gym Workout Manager. Let's get stronger, fitter, and healthier together!
 =======
 # React + Vite
+![Screenshot 2023-10-29 at 7 44 56 PM](https://github.com/rgogs/FitQuestPro/assets/103352752/299b0565-8521-4ed1-b460-d565d97f32c8)![Screenshot 2023-10-29 at 7 45 10 PM](https://github.com/rgogs/FitQuestPro/assets/103352752/9be7b7ae-9962-4341-9fb3-8c6e6ddd3847)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> f7e021c (first commit)
